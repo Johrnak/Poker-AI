@@ -9,6 +9,7 @@ Final project for the Building AI course
 ## Summary
 
 An AI approach to playing poker well. Basically the AI would take a gamestate and give a recommendation on how to play. 
+One could think of it as being in the same vein as board analysis commonly found on chess sites with different percentages shown and so on.
 
 
 ## Background
@@ -18,6 +19,7 @@ There are already many different poker bots around, though I would find it inter
 ## How is it used?
 
 You could use it when playing poker with your friends (for fun ofcourse) or maybe to learn how to improve your own strategy.
+Possibly one could play against the AI in some manner too.
 
 
 ## Data sources and AI methods
